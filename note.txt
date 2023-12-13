@@ -15,3 +15,4 @@ git add có 2 kiểu dùng, một là đẩy theo từng file sẽ là git add (
 12. Lệnh giúp tạo nhánh mới và chuyển qua nhánh mới: Git checkout -b (tên nhánh mới)
 Khi kéo xuất hiện dòng lệnh Already Up to Date tức là đã Pull đầy đủ các file trên Github
 13. Đây là dòng test merge
+14. Đây là dòng test merge bằng máy tính không dùng web
