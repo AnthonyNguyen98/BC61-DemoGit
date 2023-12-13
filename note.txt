@@ -18,3 +18,7 @@ Khi khởi tạo nhánh mới mà không gọi ra được, phải khởi tạo 
 Khi git push không chạy, phải Pull file mới nhất từ github về sau đó push lại.
 13. Đây là dòng test merge
 14. Đây là dòng test merge bằng máy tính không dùng web
+
+// Một số lưu ý khi merge code
+Khi nhánh phụ merge code lên nhánh chính sẽ có những lỗi xung đột phát sinh và sẽ đi chọn phương án, đẩy lên remote repository.
+Khi nhánh chính đã hoàn thành quá trình merge và fix xung đột, các nhánh phụ sẽ thực hiện quá trình merge code từ nhánh chính vào nhánh phụ để lấy các thay đổi mới nhất về.
