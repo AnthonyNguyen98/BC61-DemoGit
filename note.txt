@@ -14,5 +14,7 @@ git add có 2 kiểu dùng, một là đẩy theo từng file sẽ là git add (
 11. Lệnh giúp chuyển nhánh: git checkout (tên nhánh muốn chuyển)
 12. Lệnh giúp tạo nhánh mới và chuyển qua nhánh mới: Git checkout -b (tên nhánh mới)
 Khi kéo xuất hiện dòng lệnh Already Up to Date tức là đã Pull đầy đủ các file trên Github
+Khi khởi tạo nhánh mới mà không gọi ra được, phải khởi tạo mới lại nhánh.
+Khi git push không chạy, phải Pull file mới nhất từ github về sau đó push lại.
 13. Đây là dòng test merge
 14. Đây là dòng test merge bằng máy tính không dùng web
