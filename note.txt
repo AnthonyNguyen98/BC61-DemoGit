@@ -13,3 +13,4 @@ git add có 2 kiểu dùng, một là đẩy theo từng file sẽ là git add (
 10. Lệnh tạo nhánh mới: git branch (tên nhánh mới)
 11. Lệnh giúp chuyển nhánh: git checkout (tên nhánh muốn chuyển)
 12. Lệnh giúp tạo nhánh mới và chuyển qua nhánh mới: Git checkout -b (tên nhánh mới)
+13. Đây là dòng test merge
